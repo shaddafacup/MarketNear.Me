@@ -83,14 +83,4 @@ A full-featured, secure, and responsive online marketplace platform built with P
 
 ---
 
-## Installation
 
-### Prerequisites
-- XAMPP (Apache + MySQL + PHP) or equivalent web server stack
-- PHP 8.0 or higher
-- MySQL 5.7 or higher
-- Apache mod_rewrite module enabled
-
-### Step-by-Step Installation
-
-1. **Download the Project**
